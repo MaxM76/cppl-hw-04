@@ -1,0 +1,4 @@
+# ninja log v5
+2	408	6919441287411731	build.ninja	def37637a3ab8e9e
+15	818	6919441294098041	CMakeFiles/using_catch2_program.dir/cppl-hw-4.1.cpp.obj	ad3ad33b2dc38900
+840	2293	6919441304252814	using_catch2_program.exe	e2376f5b1cd8a6e5
